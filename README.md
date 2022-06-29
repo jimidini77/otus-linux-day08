@@ -174,7 +174,7 @@ echo " continuing...."
 
 # **Результаты**
 
-Полученный в ходе работы утилиты `script` файл `typescript` при переименовании Volume Group и создании модуля inin 
+Полученный в ходе работы утилиты `script` файл `typescript` при переименовании Volume Group и создании модуля initrd 
 помещен в публичный репозиторий.
 
 - **GitHub** - https://github.com/jimidini77/otus-linux-day08
