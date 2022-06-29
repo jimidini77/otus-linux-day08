@@ -117,7 +117,7 @@ GRUB_DISABLE_RECOVERY="true"
 	linux16 /vmlinuz-0-rescue-0cbc06930fcb314b9fa76ae712b8551f root=/dev/mapper/OtusRoot-root ro crashkernel=auto rd.lvm.lv=OtusRoot/root rd.lvm.lv=OtusRoot/swap rhgb quiet
 ```
 
-### Добавление модуля в ininrd
+### Добавление модуля в initrd
 
 В каталоге ` /usr/lib/dracut/modules.d/` создаётся каталог для тестового модуля туда помещаются скрипты для модуля:
 ```
