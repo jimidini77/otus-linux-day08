@@ -1,4 +1,4 @@
-# otus-linux-day07
+# otus-linux-day08
 Загрузка Linux
 
 # **Prerequisite**
